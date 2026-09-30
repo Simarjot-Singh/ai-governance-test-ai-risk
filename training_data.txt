@@ -1,0 +1,4 @@
+Synthetic training-data note:
+Sources were combined without provenance records.
+No dataset license manifest is maintained.
+No documented consent or usage-rights assessment exists.
