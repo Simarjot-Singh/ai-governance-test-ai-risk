@@ -1,0 +1,14 @@
+evaluation:
+  holdout_set: false
+  red_team: false
+  jailbreak_tests: false
+  hallucination_tests: false
+  toxicity_tests: false
+  fairness_tests: false
+  privacy_tests: false
+  regression_tests: false
+  calibration_tests: false
+deployment:
+  approval: "self-approved"
+  monitoring: false
+  rollback_plan: false
